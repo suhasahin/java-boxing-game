@@ -1,7 +1,8 @@
 # java-boxing-game
-##Boks Maçı 
+
+# Boks Maçı 
 Java Sınıflar ile boks maçını simüle eden programı yazıyoruz.
 
-##Ödev 
+# Ödev 
 Projeye ilk kimin dövüşe başlayacağını %50 olasılık ile hesaplayan sistemi entegre ediniz.
 
